@@ -19,13 +19,18 @@
 ## 게임 화면
 
 ### 시작화면 UI
-![StartGameUI](./Asset/)
+<img src="./Assets/ReadmeImg/StartUI.png" width="700px" height="400px" alt="StartSceneUI">
 
 ### 캐릭터 설명 UI
-![CharacterUI](./Asset/)
+<img src="./Assets/ReadmeImg/Intro.png" width="700px" height="400px" alt="CharacterUI">
+
+### 저택 Map UI
+<img src="./Assets/ReadmeImg/map.png" width="700px" height="400px" alt="MapUI">
 
 ### 좀도둑 플레이 화면 UI
-![PlayerUITheif](./Asset)
+<img src="./Assets/ReadmeImg/Theif.png" width="700px" height="400px" alt="PlayerUITheif">
 
 ### 집주인 플레이 화면 UI
-![PlayerUIHomeOwner](./Asset)
+<img src="./Assets/ReadmeImg/HomeOwner.png" width="700px" height="400px" alt="PlayerUIHomeOwner">
+
+
