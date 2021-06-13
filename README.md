@@ -4,6 +4,7 @@
 * Unity
 * Maya
 * Fusion360
+* GitLab에서 협업하던 프로젝트를 GitHub로 이동시켰습니다
 
 ## 게임 장르
 ```
