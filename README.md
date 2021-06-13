@@ -16,3 +16,16 @@
 -좀도둑 : 화면 맨 위의 검정 실루엣을 보고 물건 3개를 훔쳐 탈출하면 승리
 -집주인 : 좀도둑이 물건들을 다 찾기 전까지 총 3번을 칼로 찔러 이기면 승리
 ```
+## 게임 화면
+
+### 시작화면 UI
+![StartGameUI](./Asset/)
+
+### 캐릭터 설명 UI
+![CharacterUI](./Asset/)
+
+### 좀도둑 플레이 화면 UI
+![PlayerUITheif](./Asset)
+
+### 집주인 플레이 화면 UI
+![PlayerUIHomeOwner](./Asset)
